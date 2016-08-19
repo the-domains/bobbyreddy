@@ -1,4 +1,3 @@
-layout_spectrum: 0.481271218508482
 typography_spectrum: 0.41558971046470106
 color:
   brandStrength: 0.19087880663573742
@@ -11,4 +10,6 @@ color:
     - '#FFFCC4'
     - '#F0EDBB'
     - '#FF3800'
+layout_spectrum: 0.481271218508482
 name: bobbyreddy
+title: Never say Never
